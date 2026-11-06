@@ -12,7 +12,7 @@ export default function Home() {
       <Navbar />
       <HeroBanner />
       <FeaturesSection />
-      {/* <GallerySection /> */}
+      <GallerySection />
       {/* <NewsletterSection /> */}
       {/* <Footer /> */}
     </main> 
