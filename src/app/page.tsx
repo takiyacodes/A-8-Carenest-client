@@ -14,7 +14,7 @@ export default function Home() {
       <FeaturesSection />
       <GallerySection />
       <NewsletterSection />
-      {/* <Footer /> */}
+      <Footer />
     </main> 
   );
 }
